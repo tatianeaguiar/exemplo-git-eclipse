@@ -1,7 +1,7 @@
 
 public class ExemploGIT {
  public static void main(String[] args) {
-	System.out.print("Ol· GIT");
-	
+	System.out.print("Ol√° GIT");
+	//aterado do github
 } 
 }
